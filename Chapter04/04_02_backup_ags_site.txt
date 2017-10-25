@@ -1,0 +1,2 @@
+"D:\Python27\ArcGIS10.5\python.exe" "D:\Program Files\ArcGIS\Server\tools\admin\backup.py" -u siteadmin -p "^^90?meeting?SPELL?until?09^^" -s http://localhost:6080 -f "D:\backups\ags"
+"D:\Python27\ArcGIS10.5\python.exe" "D:\Scripts\ags\backup\move_ags_backup.py"
