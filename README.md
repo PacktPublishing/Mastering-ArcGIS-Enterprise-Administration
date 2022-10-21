@@ -32,3 +32,7 @@ Mastering ArcGIS Enterprise Administration is written for ArcGIS Enterprise 10.5
 * [ArcGIS Pro Cookbook](https://www.packtpub.com/application-development/arcgis-pro-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788299039)
 
 * [The Ins and Outs of ArcGIS Data Analysis [Video]](https://www.packtpub.com/application-development/ins-and-outs-arcgis-data-analysis-video?utm_source=github&utm_medium=repository&utm_campaign=9781788396219)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to download a free PDF copy of this book.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788297493">https://packt.link/free-ebook/9781788297493 </a> </p>
